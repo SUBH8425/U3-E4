@@ -1,0 +1,19 @@
+#navbar{
+    display: flex;
+    background-color: beige;
+  }
+
+  #navbar>div{
+    /* height: 80px;
+    /* border: 1px solid;  */
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 15px;
+  }
+
+  #search_input{
+    width: 100%;
+    border: 5px solid slateblue;
+    height: 25px;
+    border-radius: 20px;
+  }
